@@ -1,5 +1,5 @@
 # ProcedurallyTerrainGeneration
-An implementation of procedural terrain generation in unity inspired by [this] tutorial series (https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3)
+An implementation of procedural terrain generation in unity inspired by [this](https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3) tutorial series
 
 ## Screenshots
 ![](https://user-images.githubusercontent.com/23094225/78764260-eceff380-79a3-11ea-8447-26258b697acd.PNG)
